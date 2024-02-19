@@ -1,0 +1,2 @@
+# Python_TsinghuaEE_FirstYearWinterVAC_lessons
+ 清华大学电子系大一上寒假Python学习课程笔记，包括笔记、编程训练和大作业等内容，Author：SXZ
